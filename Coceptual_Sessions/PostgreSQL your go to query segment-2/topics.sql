@@ -1,0 +1,12 @@
+-- ALTER Keyword
+-- SELECT Queries
+-- WHERE Clause
+-- Scalar and Aggregate
+-- BETWEEN, LIKE, IN, ILIKE
+-- Pagination with LIMIT and OFFSET
+-- Update Operator
+-- Date and Date Functions
+--  Grouping
+-- Foreign key deletion
+-- INNER JOIN
+-- FULL JOIN
